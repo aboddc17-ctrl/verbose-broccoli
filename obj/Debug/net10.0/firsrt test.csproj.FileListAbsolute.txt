@@ -1,0 +1,30 @@
+U:\firsrt test\firsrt test\bin\Debug\net10.0\appsettings.Development.json
+U:\firsrt test\firsrt test\bin\Debug\net10.0\appsettings.json
+U:\firsrt test\firsrt test\bin\Debug\net10.0\firsrt test.staticwebassets.endpoints.json
+U:\firsrt test\firsrt test\bin\Debug\net10.0\firsrt test.exe
+U:\firsrt test\firsrt test\bin\Debug\net10.0\firsrt test.deps.json
+U:\firsrt test\firsrt test\bin\Debug\net10.0\firsrt test.runtimeconfig.json
+U:\firsrt test\firsrt test\bin\Debug\net10.0\firsrt test.dll
+U:\firsrt test\firsrt test\bin\Debug\net10.0\firsrt test.pdb
+U:\firsrt test\firsrt test\obj\Debug\net10.0\rpswa.dswa.cache.json
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt test.GeneratedMSBuildEditorConfig.editorconfig
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt test.AssemblyInfoInputs.cache
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt test.AssemblyInfo.cs
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt test.csproj.CoreCompileInputs.cache
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt test.MvcApplicationPartsAssemblyInfo.cache
+U:\firsrt test\firsrt test\obj\Debug\net10.0\rjimswa.dswa.cache.json
+U:\firsrt test\firsrt test\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+U:\firsrt test\firsrt test\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+U:\firsrt test\firsrt test\obj\Debug\net10.0\scopedcss\bundle\firsrt test.styles.css
+U:\firsrt test\firsrt test\obj\Debug\net10.0\staticwebassets.build.json
+U:\firsrt test\firsrt test\obj\Debug\net10.0\staticwebassets.build.json.cache
+U:\firsrt test\firsrt test\obj\Debug\net10.0\staticwebassets.development.json
+U:\firsrt test\firsrt test\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+U:\firsrt test\firsrt test\obj\Debug\net10.0\swae.build.ex.cache
+U:\firsrt test\firsrt test\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt test.dll
+U:\firsrt test\firsrt test\obj\Debug\net10.0\refint\firsrt test.dll
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt test.pdb
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt test.genruntimeconfig.cache
+U:\firsrt test\firsrt test\obj\Debug\net10.0\ref\firsrt test.dll
+U:\firsrt test\firsrt test\obj\Debug\net10.0\firsrt t.C4602ECC.Up2Date
